@@ -1,0 +1,17 @@
+.main__container-tables{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+
+}
+.plans__container--slider{
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+.section__cards{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
